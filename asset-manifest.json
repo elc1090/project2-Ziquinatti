@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/project2-Ziquinatti/static/css/main.e6c13ad2.css",
-    "main.js": "/project2-Ziquinatti/static/js/main.1f919df2.js",
+    "main.css": "/project2-Ziquinatti/static/css/main.ae358a00.css",
+    "main.js": "/project2-Ziquinatti/static/js/main.e8400988.js",
     "index.html": "/project2-Ziquinatti/index.html",
-    "main.e6c13ad2.css.map": "/project2-Ziquinatti/static/css/main.e6c13ad2.css.map",
-    "main.1f919df2.js.map": "/project2-Ziquinatti/static/js/main.1f919df2.js.map"
+    "main.ae358a00.css.map": "/project2-Ziquinatti/static/css/main.ae358a00.css.map",
+    "main.e8400988.js.map": "/project2-Ziquinatti/static/js/main.e8400988.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.1f919df2.js"
+    "static/css/main.ae358a00.css",
+    "static/js/main.e8400988.js"
   ]
 }
