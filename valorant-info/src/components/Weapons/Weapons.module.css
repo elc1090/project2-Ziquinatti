@@ -1,0 +1,17 @@
+.content {
+    z-index: 2;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: left;
+    margin: 20px 10%;
+}
+
+.armas {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 50%;
+    transform: skew(2deg);
+}

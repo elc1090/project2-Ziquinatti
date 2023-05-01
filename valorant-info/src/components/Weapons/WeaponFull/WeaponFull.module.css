@@ -1,0 +1,51 @@
+.infos {
+    min-width: 50%;
+    background-color: var(--white);
+    border-radius: 10px;
+    transform: skew(2deg);
+    color: var(--gray);
+    text-align: justify;
+
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.infos h3 {
+    margin: 0;
+    text-align: center;
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.imagem {
+    border-radius: 10px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+    min-height: 250px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem img {
+    max-height: 124px;
+}
+
+.disparos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.disparo {
+    margin-right: 20px
+}
+
+.danos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}

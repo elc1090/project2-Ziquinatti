@@ -1,0 +1,33 @@
+.distance {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.manequim {
+    display: flex;
+}
+
+.manequim img {
+    width: 70px;
+    margin-right: 5px;
+}
+
+.manequim p {
+    margin: 0;
+    font-weight: bold;
+    font-size: 1.7em;
+    margin-bottom: 10px;
+}
+
+.cabeca {
+    color: var(--dano-cabeca);
+}
+
+.corpo {
+    color: var(--dano-corpo);
+}
+
+.perna {
+    color: var(--dano-perna);
+}

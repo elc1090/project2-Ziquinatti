@@ -1,0 +1,30 @@
+:root {
+  --fonte: 'Noto Sans', sans-serif;
+  --black: #111111;
+  --gray: #292929;
+  --dark-gray: #141414;
+  --white: #ffffff;
+  --light-gray: #cccccc;
+  --val-red: #ff4655;
+
+  --dano-cabeca: #ff2d3d;
+  --dano-corpo: #ff5d6a;
+  --dano-perna: #ff868f;
+
+  --val-red-clicked: #be3440;
+  --val-blue: #2366f5;
+}
+
+body {
+  margin: 0;
+  font-family: var(--fonte);
+  background-color: var(--gray);
+  color: var(--white);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

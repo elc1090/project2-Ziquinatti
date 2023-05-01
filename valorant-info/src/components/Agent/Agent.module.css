@@ -1,0 +1,34 @@
+.agente {
+    background-color: var(--white);
+    margin: 8px;
+    border-radius: 12px;
+    transform: skew(20deg);
+    width: 110px;
+    text-align: right;
+}
+
+/* .agente:hover > .destaque{
+    display: block;
+} */
+
+.agente:hover {
+    background-color: var(--val-red);
+}
+
+.agente img {
+    max-width: 100px;
+    height: 100%;
+    border-radius: 12px;
+    transform: skew(-20deg);
+}
+
+.destaque {
+    display: none;
+    position: absolute;
+    bottom: -15px;
+    left: -15px;
+    background-color: var(--dark-gray);
+    border-radius: 12px;
+    width: 130px;
+    height: 130px;
+}

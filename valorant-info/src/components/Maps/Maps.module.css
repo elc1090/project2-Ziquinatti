@@ -1,0 +1,13 @@
+.content {
+    background-color: var(--white);
+    color: var(--gray);
+    padding-bottom: 20px;
+}
+
+.carrossel {
+    margin: 20px 15%;
+}
+
+.carrossel a {
+    background-color: var(--dark-gray);
+}

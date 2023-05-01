@@ -1,0 +1,40 @@
+.background {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.mapa {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    min-height: 695px;
+    
+    color: var(--white);
+}
+
+.mapa h3 {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+.mapa img {
+    max-width: 50%;
+    margin-bottom: 20px;
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.locais {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 0px;
+    right: 0px;
+}

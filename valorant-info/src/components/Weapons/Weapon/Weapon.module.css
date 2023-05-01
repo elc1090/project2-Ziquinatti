@@ -1,0 +1,33 @@
+.arma {
+    box-sizing: border-box;
+    
+    border-radius: 10px;
+    border-top: 5px solid var(--val-red);
+    border-right: 5px solid var(--val-red);
+    border-bottom: 2px solid var(--val-red);
+    border-left: 2px solid var(--val-red);
+    background-color: var(--white);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    height: 100px;
+    width: 200px;
+    margin: 0 10px 10px 0;
+}
+
+.arma:hover {
+    background-color: var(--val-red);
+}
+
+.arma:active {
+    background-color: var(--val-red-clicked);
+    border-color: var(--val-red-clicked);
+}
+
+.arma img {
+    max-width: 180px;
+    max-height: 80px;
+}

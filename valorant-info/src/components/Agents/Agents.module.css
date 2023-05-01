@@ -1,0 +1,12 @@
+.content {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.agentes {
+    padding: 20px 80px 80px 80px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
