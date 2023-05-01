@@ -1,6 +1,6 @@
 # VALORANT: Infos
 
-<img src="#" width="800" alt="Banner do Projeto">
+<img src="https://github.com/elc1090/project2-Ziquinatti/blob/main/valorant-info/public/images/Previa-Site.png" width="800" alt="Banner do Projeto">
 
 Acesso: https://elc1090.github.io/project2-Ziquinatti/
 
@@ -10,6 +10,8 @@ Acesso: https://valorant-api.com
 OBS.: Valorant-API é uma API não oficial e não endossada pela Riot Games de forma alguma.
 
 Riot Games, Valorant e todas as propriedades associadas são marcas comerciais ou marcas registradas da Riot Games, Inc.
+
+## Desenvolvimento
 
 #### Desenvolvedor(a)
 Lucas Ziquinatti Piccini Nunes
